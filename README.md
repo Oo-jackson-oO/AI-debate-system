@@ -47,7 +47,7 @@
 
 1. **克隆项目**
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Oo-jackson-oO/AI-debate-system)
 cd AI讨论赛
 ```
 
@@ -300,7 +300,7 @@ main()
 
 ```bash
 # 克隆项目
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Oo-jackson-oO/AI-debate-system)
 cd AI讨论赛
 
 # 创建虚拟环境
@@ -330,7 +330,7 @@ python -m pytest tests/
 
 - **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
-- **Email**: your-email@example.com
+- **Email**: 2829115201@qq.com
 
 ---
 
